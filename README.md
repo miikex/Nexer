@@ -52,7 +52,7 @@ Make sure you have the following software installed on your machine:
 1. **Run unit tests:**
 
     ```bash
-    npm test
+     npm test -- --watchAll
     ```
 
     This will run the unit tests using Jest and React Testing Library.
